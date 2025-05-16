@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Shukla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Backend Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nishantshukla01](https://www.linkedin.com/in/nishantshukla01)
 
